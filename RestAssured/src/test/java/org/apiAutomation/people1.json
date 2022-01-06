@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "first_name": "yash",
+      "last_name": "verma",
+      "email": "tuyte@gmail.com",
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "first_name": "deepak",
+      "last_name": "verma",
+      "email": "rwedse@gmail.com",
+      "gender": "male"
+    },
+    {
+      "id": 3,
+      "first_name": "shashi",
+      "last_name": "verma",
+      "email": "tu23sjde@gmail.com",
+      "gender": "female"
+    },
+    {
+      "id": 4,
+      "first_name": "sanjay",
+      "last_name": "verma",
+      "email": "yuebck@gmail.com",
+      "gender": "male"
+    },
+    {
+      "id": 5,
+      "first_name": "neetu",
+      "last_name": "verma",
+      "email": "ieuo@gmail.com",
+      "gender": "female"
+    },
+    {
+      "id": 6,
+      "first_name": "kritika",
+      "last_name": "verma",
+      "email": "kiojoiwe@gmail.com",
+      "gender": "female"
+    },
+    {
+      "id": 7,
+      "first_name": "akshat",
+      "last_name": "verma",
+      "email": "uhwe@gmail.com",
+      "gender": "male"
+    },
+    {
+      "id": 8,
+      "first_name": "kanika",
+      "last_name": "soni",
+      "email": "kjfds@gmail.com",
+      "gender": "female"
+    },
+    {
+      "id": 9,
+      "first_name": "vidhi",
+      "last_name": "verma",
+      "email": "viojfd@gmail.com",
+      "gender": "female"
+    },
+    {
+      "id": 10,
+      "first_name": "akshay",
+      "last_name": "soni",
+      "email": "kakjd@gmail.com",
+      "gender": "male"
+    }
+  ]
+}
